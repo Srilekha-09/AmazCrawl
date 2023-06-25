@@ -1,6 +1,6 @@
-# Amazon Scraper using Selectorlib 
+# AmazCrawl-Amazon Scraper using Selectorlib 
 
-A simple amazon scraper to extract product details and prices from Amazon.com using Python Requests and Selectorlib. 
+A simple amazon scraper to extract product details and prices from Amazon.com using Python Requests and Selectorlib.It is done as part of the 'Amazon Product Data Scraping Crawler Making Competition'. 
 
 There are two simple scrapers in this project. 
 1. Amazon Product Page Scraper `amazon.py`
