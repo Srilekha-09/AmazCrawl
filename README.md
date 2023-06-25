@@ -2,8 +2,6 @@
 
 A simple amazon scraper to extract product details and prices from Amazon.com using Python Requests and Selectorlib. 
 
-Full article at [ScrapeHero Tutorials](https://www.scrapehero.com/tutorial-how-to-scrape-amazon-product-details-using-python-and-selectorlib/)
-
 There are two simple scrapers in this project. 
 1. Amazon Product Page Scraper `amazon.py`
 1. Amazon Search Results Page Scraper `searchresults.py`
